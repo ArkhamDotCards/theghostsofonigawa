@@ -1,5 +1,5 @@
 # The Ghosts of Onigawa
-##### The Ghosts of Onigawa is a 'fan-brew' cycle/expansion compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/).
+##### The Ghosts of Onigawa is a 'fan-brew' cycle/expansion set compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/).
 
 ![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-investigator-p-500.png)
 

@@ -10,6 +10,8 @@ The Ghosts of Onigawa cycle consists of two component 'products':
 - The Ghosts of Onigawa Investigator Expansion
 - The Ghosts of Onigawa Campaign Expansion
 
+The Ghosts of Onigawa Investigator Expansion contains 100 new player cards, including 6 custom investigators, and The Ghosts of Onigawa Campaign expansion contains 8 new scenarios which may be played standalone or combined to form an eight-part campaign.
+
 ### Why?
 The Ghosts of Onigawa's principal goal is to mechnaically-adapt/pay-loving-homage-to pan-Asian horror and fantasy concepts to/in the more classically-Lovecraftian Arkham Horror setting, while spotlighting the work of asian concept/fantasy artists (and other arists working in that milleu).
 

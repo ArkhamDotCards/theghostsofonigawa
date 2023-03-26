@@ -22,3 +22,5 @@ The v1.4 update (Return to The Ghosts of Onigawa) is expected to release on 10/3
 
 ### Who?
 The Ghosts of Onigawa was designed by the [Arkham.cards](https://arkham.cards) team and made possible with the support of players like you. If you'd like to see more custom Arkham content from us, consider supporting the team on [Patreon](https://patreon.com/arkhamdotcards), at whatever level you feel comfortable with, and if you'd like to chat with us, come on down to the Arkham.cards [Community Discord Server](https://discord.gg/xEZ5FwKrNS).
+
+![](https://legacy.theskepticsguide.org/wp-content/uploads/2018/03/becomeAPatronBanner.png)

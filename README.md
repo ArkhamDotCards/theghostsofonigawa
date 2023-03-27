@@ -1,4 +1,4 @@
-# The Ghosts of Onigawa
+# Arkham Horror LCG: The Ghosts of Onigawa
 
 ![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-investigator-p-500.png)
 

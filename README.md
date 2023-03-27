@@ -32,10 +32,10 @@ The Ghosts of Onigawa Campaign Expansion contains 8 custom scenarios which may b
 The Ghosts of Onigawa's principal goal is to mechanically-adapt/pay-loving-homage-to pan-Asian horror and fantasy concepts to/in the more classically-Lovecraftian Arkham Horror setting, while spotlighting the work of asian concept/fantasy artists (and other arists working in that milleu).
 
 ### When?
-The Ghosts of Onigawa v1.0 released on 10/31/2022. v1.0 was followed by a number of small corrections and balance tweaks.
+The Ghosts of Onigawa v1.0 was initially released on 10/10/2022.
 
 The current version, v1.3, was released on 3/19/2023.
-The v1.4 update (Return to The Ghosts of Onigawa) is expected to release on 10/31/2023.
+The v2.0 update (Return to The Ghosts of Onigawa) is expected to release on 10/31/2023.
 
 ### Where?
 

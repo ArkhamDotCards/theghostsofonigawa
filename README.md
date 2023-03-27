@@ -11,12 +11,12 @@ The Ghosts of Onigawa cycle consists of two component 'products':
 - The Ghosts of Onigawa Campaign Expansion
 
 The Ghosts of Onigawa Investigator Expansion contains 100 new player cards, including 6 custom investigators:
-- Yuki Yagami: The Priestess
-- Makoto Miyazaki: The Courtesan
-- Hideki Honda: The Shinobi
-- Akira Arisato: The Medium
-- Sakura Sanada: The Wanderer
-- Shinobu Sanosuke: The Monk
+- [Yuki Yagami](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/001e.png): [The Priestess](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/001f.png)
+- [Makoto Miyazaki](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/002e.png): [The Courtesan](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/002f.png)
+- [Hideki Honda](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/003e.png): [The Shinobi](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/003f.png)
+- [Akira Arisato](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/004e.png): [The Medium](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/004f.png)
+- [Sakura Sanada](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/005e.png): [The Wanderer](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/005f.png)
+- [Shinobu Sanosuke](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098e.png): [The Monk](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098f.png)
 
 The Ghosts of Onigawa Campaign Expansion contains 8 custom scenarios which may be played standalone or combined to form an eight-part campaign:
 - The Hidden Village

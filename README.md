@@ -18,7 +18,7 @@ The Ghosts of Onigawa Investigator Expansion contains 100 new player cards, incl
 - Sakura Sanada: The Wanderer
 - Shinobu Sanosuke: The Monk
 
-The Ghosts of Onigawa Campaign Expansion contains 8 new scenarios which may be played standalone or combined to form an eight-part campaign:
+The Ghosts of Onigawa Campaign Expansion contains 8 custom scenarios which may be played standalone or combined to form an eight-part campaign:
 - The Hidden Village
 - The House On The Hill
 - The River Delta

@@ -29,7 +29,7 @@ The Ghosts of Onigawa Campaign Expansion contains 8 custom scenarios which may b
 - The Black Harvest
 
 ### Why?
-The Ghosts of Onigawa's principal goal is to mechnaically-adapt/pay-loving-homage-to pan-Asian horror and fantasy concepts to/in the more classically-Lovecraftian Arkham Horror setting, while spotlighting the work of asian concept/fantasy artists (and other arists working in that milleu).
+The Ghosts of Onigawa's principal goal is to mechanically-adapt/pay-loving-homage-to pan-Asian horror and fantasy concepts to/in the more classically-Lovecraftian Arkham Horror setting, while spotlighting the work of asian concept/fantasy artists (and other arists working in that milleu).
 
 ### When?
 The Ghosts of Onigawa v1.0 released on 10/31/2022. v1.0 was followed by a number of small corrections and balance tweaks.

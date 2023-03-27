@@ -49,6 +49,7 @@ You can obtain the latest version of The Ghosts of Onigawa in any of the followi
 Unofficial 'fan' localizations of The Ghosts of Onigawa are currently available in the following languages:
 * German
 * French
+
 Note: These localization projects are unaffiliated with Arkham.cards and do not offer support for them; we are merely listing them for your convenience.
 
 ### Who?

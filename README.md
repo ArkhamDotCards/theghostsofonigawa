@@ -49,6 +49,6 @@ You can obtain the latest version of The Ghosts of Onigawa in any of the followi
 Unofficial Fan Localizations of The Ghosts of Onigawa are available in French and German. These localization projects are unaffiliated with Arkham.cards and we cannot offer support for them.
 
 ### Who?
-The Ghosts of Onigawa was designed by @alandwarinasia the [Arkham.cards](https://arkham.cards) team and made possible with the support of players like you. If you'd like to see more custom Arkham content from us, consider supporting the team on [Patreon](https://patreon.com/arkhamdotcards), at whatever level you feel comfortable with, and if you'd like to chat with us, come on down to the Arkham.cards [Community Discord Server](https://discord.gg/xEZ5FwKrNS).
+The Ghosts of Onigawa was designed by [@alandwarinasia](https://twitter.com/alandwarinasia] the [Arkham.cards](https://arkham.cards) team and made possible with the support of players like you. If you'd like to see more custom Arkham content from us, consider supporting the team on [Patreon](https://patreon.com/arkhamdotcards), at whatever level you feel comfortable with, and if you'd like to chat with us, come on down to the Arkham.cards [Community Discord Server](https://discord.gg/xEZ5FwKrNS).
 
 [![](https://legacy.theskepticsguide.org/wp-content/uploads/2018/03/becomeAPatronBanner.png)](https://patreon.com/arkhamdotcards)

@@ -44,8 +44,8 @@ You can obtain the latest version of The Ghosts of Onigawa in any of the followi
 
 * Subscribing to the [Steam Workshop module](https://steamcommunity.com/sharedfiles/filedetails/?id=2544629522) for [Tabletop Simulator](https://www.tabletopsimulator.com/) on [Steam](https://store.steampowered.com/).
 * Downloading the latest json and pdf objects from the [releases](https://github.com/ArkhamDotCards/theghostsofonigawa/releases) page here on [Github](https://github.com/ArkhamDotCards/theghostsofonigawa/) (useful for importing into SCE).
-* Ordering 'Print-on-Demand' physical copies of either or both of the Campaign Expansion of Investigation Expansion from MakePlayingCards.com. *(Note: We are not involved in either payment or fufillment of these items; we make no money off physical sales and only offer 'pre-configured' packages from a third-party printer for you to order.)*
-* Printing your own DIY Print-and-Play/Print-on-Demand copies of the card scans using the source .png files available in [this repo](https://github.com/ArkhamDotCards/theghostsofonigawa/tree/main/img/bleed).
+* Ordering 'Print-on-Demand' physical copies of either or both of the Campaign Expansion or [Investigator Expansion](https://go.arkham.cards/onigawa-investigator) from MakePlayingCards.com. *(Note: We are not involved in either payment or fufillment of these items; we make no money off physical sales and only offer 'pre-configured' packages from a third-party printer for you to order.)*
+* Printing your own DIY Print-and-Play/Print-on-Demand copies of the card scans using the source .png files available in [this repo](https://github.com/ArkhamDotCards/theghostsofonigawa/tree/main/img/).
 
 Unofficial 'fan' localizations of The Ghosts of Onigawa are currently available in the following languages:
 * German

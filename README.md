@@ -8,6 +8,8 @@ The Ghosts of Onigawa cycle consists of two component 'products':
 - The Ghosts of Onigawa Investigator Expansion
 - The Ghosts of Onigawa Campaign Expansion
 
+---
+
 ![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-investigator-p-500.png)
 
 The Ghosts of Onigawa Investigator Expansion contains 100 new player cards, including 6 custom investigators:
@@ -18,9 +20,10 @@ The Ghosts of Onigawa Investigator Expansion contains 100 new player cards, incl
 - [Sakura Sanada](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/005e.png): [The Wanderer](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/005f.png)
 - [Mayu Tachibana](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098e.png): [The Twin](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098f.png) (Parallel)
 
-![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-campaign-p-500.png)
+![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/60eb7c9fb10fcb5ea1383d38_boxart-campaign-p-500.png)
 
-The Ghosts of Onigawa Campaign Expansion contains 8 custom scenarios which may be played standalone or combined to form an eight-part campaign:
+The Ghosts of Onigawa Campaign Expansion contains eight custom scenarios which may be played standalone or combined to form an eight-part campaign:
+
 - The Hidden Village
 - The House on the Hill
 - The River Delta

@@ -1,7 +1,5 @@
 # Arkham Horror LCG: The Ghosts of Onigawa
 
-![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-investigator-p-500.png)
-
 ### What?
 [The Ghosts of Onigawa](https://www.arkham.cards/ghosts-of-onigawa) is a 'fan-brew' cycle/expansion set designed by the [Arkham.cards](https://patreon.com/arkhamdotcards) team to be compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/).
 
@@ -10,17 +8,21 @@ The Ghosts of Onigawa cycle consists of two component 'products':
 - The Ghosts of Onigawa Investigator Expansion
 - The Ghosts of Onigawa Campaign Expansion
 
+![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-investigator-p-500.png)
+
 The Ghosts of Onigawa Investigator Expansion contains 100 new player cards, including 6 custom investigators:
 - [Yuki Yagami](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/001e.png): [The Priestess](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/001f.png)
 - [Makoto Miyazaki](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/002e.png): [The Courtesan](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/002f.png)
 - [Hideki Honda](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/003e.png): [The Shinobi](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/003f.png)
 - [Akira Arisato](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/004e.png): [The Medium](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/004f.png)
 - [Sakura Sanada](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/005e.png): [The Wanderer](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/005f.png)
-- [Shinobu Sanosuke](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098e.png): [The Monk](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098f.png)
+- [Mayu Tachibana](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098e.png): [The Twin](https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/img/no-bleed/098f.png) (Parallel)
+
+![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-campaign-p-500.png)
 
 The Ghosts of Onigawa Campaign Expansion contains 8 custom scenarios which may be played standalone or combined to form an eight-part campaign:
 - The Hidden Village
-- The House On The Hill
+- The House on the Hill
 - The River Delta
 - The War Eternal
 - Half Light

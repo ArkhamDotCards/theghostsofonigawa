@@ -41,7 +41,7 @@ The Ghosts of Onigawa v1.0 was initially released on 10/10/2022.
 
 The current version, v1.3, was released on 3/19/2023.
 
-The v2.0 update (Return to The Ghosts of Onigawa) is expected to release on 10/31/2023.
+The final v2.0 update (Return to The Ghosts of Onigawa) was to released on 6/28/2023.
 
 ### Where?
 
@@ -49,7 +49,8 @@ You can obtain the latest version of The Ghosts of Onigawa in any of the followi
 
 * Subscribing to the [Steam Workshop module](https://steamcommunity.com/sharedfiles/filedetails/?id=2544629522) for [Tabletop Simulator](https://www.tabletopsimulator.com/) on [Steam](https://store.steampowered.com/).
 * Downloading the latest json and pdf objects from the [releases](https://github.com/ArkhamDotCards/theghostsofonigawa/releases) page here on [Github](https://github.com/ArkhamDotCards/theghostsofonigawa/) (useful for importing into SCE).
-* Ordering 'Print-on-Demand' physical copies of either or both of the Campaign Expansion or [Investigator Expansion](https://go.arkham.cards/onigawa-investigator) from MakePlayingCards.com. *(Note: We are not involved in either payment or fufillment of these items; we make no money off physical sales and only offer 'pre-configured' packages from a third-party printer for you to order.)*
+* Accessing The Ghosts of Onigawa modules from the in-game Community Content catalog in SCE 3.0+.
+* Ordering 'Print-on-Demand' physical copies of either or both of the [Campaign Expansion](https://go.arkham.cards/onigawa-campaign) or [Investigator Expansion](https://go.arkham.cards/onigawa-investigator) from [MakePlayingCards.com](https://makeplayingcards.com). *(Note: We are not involved in either payment for or fufillment of these items; we make no money off physical sales and only offer 'pre-configured' packages from a third-party printer for you to order for your convenience.)*
 * Printing your own DIY Print-and-Play/Print-on-Demand copies of the card scans using the source .png files available in [this repo](https://github.com/ArkhamDotCards/theghostsofonigawa/tree/main/img/).
 
 Unofficial 'fan' localizations of The Ghosts of Onigawa are currently available in the following languages:

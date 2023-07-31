@@ -39,8 +39,6 @@ The Ghosts of Onigawa's principal goal is to mechanically-adapt/pay-loving-homag
 ### When?
 The Ghosts of Onigawa v1.0 was initially released on 10/10/2022.
 
-The current version, v1.3, was released on 3/19/2023.
-
 The final v2.0 update (Return to The Ghosts of Onigawa) was released on 6/28/2023.
 
 ### Where?

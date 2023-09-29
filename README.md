@@ -58,6 +58,6 @@ Unofficial 'fan' localizations of The Ghosts of Onigawa are currently available 
 Note: These localization projects are unaffiliated with Arkham.cards and do not offer support for them; we are merely listing them for your convenience.
 
 ### Who?
-The Ghosts of Onigawa was designed by [@alandwarinasia](https://twitter.com/alandwarinasia) and the [Arkham.cards](https://arkham.cards) team and made possible with the support of players like you. If you'd like to see more custom Arkham content from us, consider supporting the team on [Patreon](https://patreon.com/arkhamdotcards), at whatever level you feel comfortable with, and if you'd like to chat with us, come on down to the Arkham.cards [Community Discord Server](https://discord.gg/xEZ5FwKrNS).
+The Ghosts of Onigawa was designed by [@myriadantitrust](https://twitter.com/myriadantitrust) and the [Arkham.cards](https://arkham.cards) team and made possible with the support of players like you. If you'd like to see more custom Arkham content from us, consider supporting the team on [Patreon](https://patreon.com/arkhamdotcards), at whatever level you feel comfortable with, and if you'd like to chat with us, come on down to the Arkham.cards [Community Discord Server](https://discord.gg/xEZ5FwKrNS).
 
 [![](https://legacy.theskepticsguide.org/wp-content/uploads/2018/03/becomeAPatronBanner.png)](https://patreon.com/arkhamdotcards)

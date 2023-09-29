@@ -49,7 +49,7 @@ You can obtain the latest version of The Ghosts of Onigawa in any of the followi
 * Downloading the latest json and pdf objects from the [releases](https://github.com/ArkhamDotCards/theghostsofonigawa/releases) page here on [Github](https://github.com/ArkhamDotCards/theghostsofonigawa/) (useful for importing into SCE).
 * Accessing The Ghosts of Onigawa modules from the in-game Community Content catalog in SCE 3.0+.
 * Ordering 'Print-on-Demand' physical copies of either or both of the [Campaign Expansion](https://go.arkham.cards/onigawa-campaign) or [Investigator Expansion](https://go.arkham.cards/onigawa-investigator) from [MakePlayingCards.com](https://makeplayingcards.com). *(Note: We are not involved in either payment for or fufillment of these items; we make no money off physical sales and only offer 'pre-configured' packages from a third-party printer for you to order for your convenience.)*
-* Printing your own DIY Print-and-Play/Print-on-Demand copies of the card scans using the source .png files available in [this repo](https://github.com/ArkhamDotCards/theghostsofonigawa/tree/main/img/).
+* Printing your own DIY Print-and-Play/Print-on-Demand copies of the card scans using the source .png files available in [this repo](https://github.com/ArkhamDotCards/theghostsofonigawa/tree/main/img/). You can also download the entire repository in one giant zip file [here](https://github.com/ArkhamDotCards/theghostsofonigawa/archive/refs/heads/main.zip).
 
 Unofficial 'fan' localizations of The Ghosts of Onigawa are currently available in the following languages:
 * German

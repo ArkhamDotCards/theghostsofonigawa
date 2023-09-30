@@ -51,12 +51,6 @@ You can obtain the latest version of The Ghosts of Onigawa in any of the followi
 * Ordering 'Print-on-Demand' physical copies of either or both of the [Campaign Expansion](https://go.arkham.cards/onigawa-campaign) or [Investigator Expansion](https://go.arkham.cards/onigawa-investigator) from [MakePlayingCards.com](https://makeplayingcards.com). *(Note: We are not involved in either payment for or fufillment of these items; we make no money off physical sales and only offer 'pre-configured' packages from a third-party printer for you to order for your convenience.)*
 * Printing your own DIY Print-and-Play/Print-on-Demand copies of the card scans using the source .png files available in [this repo](https://github.com/ArkhamDotCards/theghostsofonigawa/tree/main/img/). You can also download the entire repository in one giant zip file [here](https://github.com/ArkhamDotCards/theghostsofonigawa/archive/refs/heads/main.zip).
 
-Unofficial 'fan' localizations of The Ghosts of Onigawa are currently available in the following languages:
-* German
-* French
-
-Note: These localization projects are unaffiliated with Arkham.cards and do not offer support for them; we are merely listing them for your convenience.
-
 ### Who?
 The Ghosts of Onigawa was designed by [@myriadantitrust](https://twitter.com/myriadantitrust) and the [Arkham.cards](https://arkham.cards) team and made possible with the support of players like you. If you'd like to see more custom Arkham content from us, consider supporting the team on [Patreon](https://patreon.com/arkhamdotcards), at whatever level you feel comfortable with, and if you'd like to chat with us, come on down to the Arkham.cards [Community Discord Server](https://discord.gg/xEZ5FwKrNS).
 
